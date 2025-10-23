@@ -110,5 +110,5 @@ I'm always open to exciting opportunities in:
 </p>  -->
 
 <p align="center">
-  <i>“Innovation is intelligence having fun.” — Zaid</i>
+  <i>Innovation is intelligence having fun</i>
 </p>
