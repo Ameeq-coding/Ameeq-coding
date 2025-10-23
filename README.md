@@ -3,7 +3,7 @@
   <img src="https://images.unsplash.com/photo-1555949963-aa79dcee9813?ixlib=rb-4.0.3&auto=format&fit=crop&w=1650&q=80" alt="AI Banner" width="100%" />
 </p>  -->
 
-<h1 align="center">Hi there, I'm Muhammad Zaid 👋</h1>
+<h1 align="center">Hi there, I'm Zaid 👋</h1>
 
 <p align="center">
   <strong>AI/ML Engineer • Deep Learning Enthusiast • Full Stack Innovator</strong>  
