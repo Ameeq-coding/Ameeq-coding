@@ -2,8 +2,7 @@
 
 **AI Product Engineer** | LLM Systems & Production AI
 
-zaid.ameeq@gmail.com | +44 7447 661005 | [LinkedIn](https://www.linkedin.com/in/zaid-ai-product/) | [Portfolio](#)
-
+zaid.ameeq@gmail.com | +44 7447 661005 | [LinkedIn](https://www.linkedin.com/in/zaid-ai-product/) 
 ---
 
 ## About Me
@@ -123,7 +122,7 @@ Comprehensive reference implementation of production-grade retrieval-augmented g
 
 ## Education
 
-**MSc Technology Management** (AI in Business, Agentic Systems)
+**MSc Technology Management with Cyber Security** (AI in Business, Agentic Systems)
 BPP University London | Sep 2025 – Present
 
 **BSc Computer Science**
@@ -144,4 +143,4 @@ Actively seeking AI Product Engineer opportunities with forward-thinking organiz
 
 ## Get In Touch
 
-Email: zaid.ameeq@gmail.com | Phone: +44 7307 535562 | [LinkedIn](https://www.linkedin.com/in/zaid-ai-product/) | [GitHub](https://github.com/Ameeq-coding)
+Email: zaid.ameeq@gmail.com | Phone: +44 7447 661005 | [LinkedIn](https://www.linkedin.com/in/zaid-ai-product/) | [GitHub](https://github.com/Ameeq-coding)
