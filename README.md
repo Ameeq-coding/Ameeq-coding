@@ -1,212 +1,147 @@
-<div align="center">
+# ZAID ZAID
 
-# ZAID AMEEQ
+**AI Product Engineer** | LLM Systems & Production AI
 
-**AI Product Engineer** | LLM Systems • Agentic AI • Production ML  
-Building scalable AI products that drive measurable business outcomes
-
-[**Email**](mailto:zaid.ameeq@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/zaid-ai-product/) • [**X/Twitter**](#) • [**Portfolio**](#)
-
-</div>
+zaid.ameeq@gmail.com | +44 7447 661005 | [LinkedIn](https://www.linkedin.com/in/zaid-ai-product/) | [Portfolio](#)
 
 ---
 
-## 🎯 About
+## About Me
 
-AI Product Engineer with 3+ years shipping production LLM systems and autonomous agents. Expertise in full-stack AI development: model integration, RAG pipelines, multi-agent orchestration, and infrastructure optimization. Proven track record translating AI capabilities into measurable business impact.
+AI Product Engineer with 3+ years building production-grade LLM applications and autonomous agent systems. Specialized in full-stack AI development: model integration, RAG architectures, multi-agent orchestration, and infrastructure optimization.
 
-**Current Focus:** Building secure, scalable AI products in the agentic era. Specializing in LLM security, RAG architectures, and production deployment patterns.
-
----
-
-## 🚀 What I Ship
-
-### Core Stack
-- **LLMs & Agents:** GPT, LLaMA, LangChain, LangGraph, multi-agent orchestration
-- **Backend:** FastAPI, Django, Flask, asynchronous pipelines
-- **Frontend:** Next.js, React, real-time AI interfaces
-- **Data:** RAG systems, vector databases (Pinecone, Weaviate), semantic search
-- **Infrastructure:** AWS, Docker, CI/CD, model serving, observability
-
-### Recent Impact
-- 🚀 **60% latency reduction** on GPT recommendation pipeline → 18% conversion uplift
-- 🤖 **40% task automation** with autonomous agent systems → $50K annual savings
-- 📊 **0.94 precision** semantic search in production A/B testing
-- 🧪 **78% test coverage** across NLP API suite; 35% incident reduction
+Currently focused on shipping scalable AI products and advancing AI security practices. Strong track record translating complex AI capabilities into measurable business outcomes through cross-functional execution and independent ownership.
 
 ---
 
-## 📁 Featured Projects
+## Technical Foundation
 
-### 🔒 mcpinspect — MCP Security Scanner
-**Status:** Production | **Stars:** [Check Repository](https://github.com/Ameeq-coding/mcpinspect)
+**Languages**: Python (expert), JavaScript/TypeScript, Java, C++
 
-AI-powered security scanner for Model Context Protocol (MCP) servers. Detects LLM integration vulnerabilities, prompt injection risks, and unsafe tool bindings across the MCP ecosystem.
+**AI & Systems**: Large Language Models, Agentic Workflows, Multi-Agent Systems, RAG Pipelines, Prompt Engineering, Semantic Search, Evaluation Frameworks
 
-**What This Does:**
-- Automated vulnerability detection with 18-rule CVE/ATLAS-mapped engine
-- 7-stage scanning pipeline: parsing → dependency analysis → semantic risk detection → compliance reporting
-- SARIF output format for IDE integration and CI/CD pipelines
-- Published on PyPI for easy installation and integration
+**Production Stack**: FastAPI, Django, Flask, Next.js, React, LangChain, LangGraph, LlamaIndex, PyTorch, TensorFlow
 
-**Tech Stack:** Python | Security | AI Infrastructure | CLI Tools
+**Infrastructure**: AWS (EC2, Lambda, S3), Docker, Kubernetes, GitHub Actions, CI/CD, Supabase, Vector Databases (Pinecone, Weaviate), MLflow, Langfuse
 
-**Why It Matters:** MCP servers are the new attack surface for LLM applications. This fills a critical gap in the security tooling ecosystem.
-
-```bash
-pip install mcpinspect
-mcpinspect scan ./mcp_server --output report.sarif
-```
+**Methodologies**: Test-Driven Development, Agile Development, Product Execution, Independent Project Leadership
 
 ---
 
-### 🤖 ZkBot — AI Security Lab & Finance Assistant
-**Status:** Open Research | **Full Case Study:** [Repository](https://github.com/Ameeq-coding/zkbot)
+## Work Experience
 
-Progressive open-source lab for hardening AI applications against adversarial attacks. Demonstrates the complete journey from basic Q&A bot to production-grade agentic system with comprehensive security evaluation.
+### AI Integration Engineer
+**Zyeoz** | Feb 2024 – May 2025
 
-**6-Stage Progression:**
-1. **Q&A Bot** — Basic LLM interface
-2. **Chat Memory** — Stateful conversations with context
-3. **RAG** — Domain-specific knowledge retrieval (88% precision on finance domain)
-4. **Tool Use** — Autonomous action execution with safety guards
-5. **Agentic Execution** — Multi-step workflow orchestration
-6. **Hardened Evaluation** — Attack simulation & guardrail validation
+Built and shipped production LLM systems for a B2B platform serving 5K+ active users.
 
-**Attack Surface Coverage:**
-- Evaluated against 50+ adversarial prompts
-- Prompt injection resistance testing
-- Jailbreak and information extraction attempts
-- Model behavior drift detection
+- Designed and deployed GPT-powered recommendation engine reducing cold-start latency by 60%, driving 18% improvement in user conversion metrics
+- Architected autonomous agent system using FastAPI and LangChain for multi-step workflow automation, reducing manual support tasks by 40%
+- Engineered real-time personalization pipeline with vector embeddings and semantic search, achieving 0.94 precision in A/B testing
+- Led end-to-end delivery of 7 AI features across 3-month sprint cycles, managing requirements, technical decisions, and cross-functional coordination
+- Optimized model inference performance from 2.1 seconds to 340ms through batch processing and quantization, reducing infrastructure costs by 25%
 
-**Tech Stack:** FastAPI | Next.js | Supabase | LLM Security | Evaluation Frameworks
+### Software Engineer
+**Numdesk** | Mar 2023 – Jan 2024
 
-**Why It's Here:** Companies shipping AI products need to understand attack surfaces. This is a public reference implementation.
+Developed backend systems and AI integrations for production environments.
 
----
-
-### 📚 Production RAG Architecture & Tutorial
-**Status:** Documentation & Implementation** | **Repository:** [View Here](https://github.com/Ameeq-coding)
-
-Comprehensive guide to building production-grade Retrieval-Augmented Generation systems. Combines hybrid retrieval strategies, modern orchestration patterns, and observability best practices.
-
-**Architecture Highlights:**
-- **Hybrid Retrieval:** Dense (semantic) + sparse (BM25) search with intelligent fusion
-- **Orchestration:** LangGraph for complex RAG workflows with human-in-the-loop evaluation
-- **Retrieval Optimization:** A/B tested strategies; 12% F1-score improvement
-- **Observability:** Langfuse integration for production monitoring and debugging
-- **Evaluation:** RAGAS framework for automated RAG quality assessment
-
-**Use Cases Covered:**
-- Domain-specific knowledge bases (finance, medical, legal)
-- Multi-document reasoning
-- Real-time information integration
-
-**Tech Stack:** LangGraph | LlamaIndex | RAGAS | Langfuse | Vector DBs
-
-**Why Learn This:** RAG is table stakes for production LLM applications. This repo shows patterns that actually work at scale.
+- Shipped 8 NLP-integrated REST APIs handling 100K+ monthly requests with sub-500ms response times across 3 production integrations
+- Built automated test suite achieving 78% code coverage using pytest and GitHub Actions, reducing production incidents by 35%
+- Integrated transformer models including BERT and sentence-embeddings into backend services for semantic search and text classification
+- Reduced CI/CD deployment time from 12 minutes to 3 minutes through Docker containerization and parallel test execution
+- Independently owned greenfield API design and implementation for client-specific NLP requirements, delivered on-scope and on-schedule
 
 ---
 
-## 🛠 Technical Arsenal
+## Featured Projects
 
-### Languages & Fundamentals
-```
-Python (Expert) | JavaScript/TypeScript | Java | C++
-Test-Driven Development | System Design | Software Architecture
-```
+### mcpinspect - MCP Security Scanner
 
-### AI & Machine Learning
-```
-Large Language Models (GPT, LLaMA, open-source)
-Agentic Workflows & Multi-Agent Systems
-RAG Pipelines & Knowledge Integration
-Prompt Engineering & Fine-tuning
-Supervised/Unsupervised Learning
-Vector Databases & Semantic Search
-NLP Frameworks (BERT, Transformers, sentence-embeddings)
-Evaluation Frameworks (RAGAS, custom metrics)
-```
+Production-ready security scanner for Model Context Protocol servers. Detects LLM integration vulnerabilities and prompt injection risks in agentic ecosystems.
 
-### Production Frameworks
-```
-Backend:      FastAPI | Django | Flask | Node.js
-Frontend:     Next.js | React | TypeScript
-AI/ML:        LangChain | LangGraph | LlamaIndex | PyTorch | TensorFlow
-Data:         Pinecone | Weaviate | Supabase | PostgreSQL
-Infrastructure: AWS (EC2, Lambda, S3) | Docker | Kubernetes | GitHub Actions
-Observability: Langfuse | MLflow | Prometheus | OpenTelemetry
-```
+**Repository**: [github.com/Ameeq-coding/mcpinspect](https://github.com/Ameeq-coding/mcpinspect)
 
-### Specializations
-```
-✓ Full-stack LLM application development
-✓ Agentic system design and orchestration
-✓ RAG architecture and optimization
-✓ AI security and adversarial evaluation
-✓ Production ML deployment and scaling
-✓ Cross-functional product execution
-✓ Independent project ownership
-```
+- Seven-stage scanning pipeline covering parsing, dependency analysis, semantic risk detection, and compliance reporting
+- 18-rule detection engine with CVE and ATLAS framework mappings
+- SARIF-compliant output for IDE integration and CI/CD pipeline compatibility
+- Published on PyPI for distribution and integration into security workflows
+
+**Technical**: Python, Security Analysis, AI Infrastructure
 
 ---
 
-## 📊 Impact by Numbers
+### ZkBot - AI Security Research Lab
 
-| Metric | Impact | Context |
-|--------|--------|---------|
-| **60%** | Latency reduction | GPT recommendation engine |
-| **18%** | Conversion uplift | User cold-start optimization |
-| **40%** | Task automation | Autonomous agent workflow |
-| **0.94** | Semantic search precision | Production A/B testing |
-| **78%** | Test coverage | NLP API suite |
-| **35%** | Incident reduction | QA automation improvements |
-| **25%** | Cost savings | Infrastructure optimization |
-| **88%** | RAG retrieval precision | Finance domain knowledge base |
-| **50+** | Adversarial prompts tested | ZkBot evaluation framework |
+Progressive open-source implementation demonstrating AI application hardening through systematic security evaluation.
 
----
+**Repository**: [github.com/Ameeq-coding/zkbot](https://github.com/Ameeq-coding)
 
-## 🎓 Education & Continuous Learning
+Progresses through six stages from basic Q&A bot to production-grade agentic system with comprehensive security evaluation.
 
-**MSc Technology Management** (AI in Business, Agentic Systems)  
-*BPP University London* | Sep 2025 – Present
+- Built adversarial evaluation framework simulating 50+ attack scenarios including prompt injection, jailbreaks, and information extraction
+- Implemented RAG system with LlamaIndex achieving 88% retrieval precision on finance domain knowledge base
+- Designed multi-stage architecture: Q&A bot, chat memory, retrieval-augmented generation, tool use, agentic execution, hardened evaluation
+- Documented attack surface analysis and mitigation strategies as reference for AI security practices
 
-**BSc Computer Science**  
-*University of Narowal* | Oct 2019 – Sep 2023
-
-**Machine Learning Specialization**  
-*Coursera (Stanford University)* | Jan 2021 – Jan 2022
-
-**Active Learning:** AI security research, agentic system architectures, production RAG patterns, LLM evaluation methodologies
+**Technical**: FastAPI, Next.js, Supabase, LLM Security, Evaluation Frameworks
 
 ---
 
-## 🤝 Let's Build Together
+### Production RAG Architecture
 
-I'm actively looking for:
-- 🚀 **AI Product Engineer** roles at forward-thinking companies
-- 🔬 **AI Security** positions focusing on LLM safety and adversarial resilience
-- 🎯 **Agentic Systems** opportunities in enterprise or scale-up environments
-- 🤖 **Collaborative Research** on production AI challenges
+Comprehensive reference implementation of production-grade retrieval-augmented generation systems with modern orchestration patterns.
 
-**Open to:** Onsite (London preferred) | Hybrid | Startup | Enterprise | Role-based impact
+**Repository**: [github.com/Ameeq-coding](https://github.com/Ameeq-coding)
 
----
+- Hybrid retrieval strategy combining dense semantic search with sparse BM25 matching, achieving 12% F1-score improvement through iterative optimization
+- LangGraph-based orchestration enabling complex RAG workflows with human-in-the-loop evaluation capabilities
+- Full evaluation pipeline using RAGAS framework for automated quality assessment and continuous improvement
+- Langfuse integration for production monitoring, debugging, and observability
+- Comprehensive documentation and tutorial content for practitioners implementing RAG systems
 
-## 🔗 Connect
-
-- **Email:** [zaid.ameeq@gmail.com](mailto:zaid.ameeq@gmail.com)
-- **LinkedIn:** [in/muhammad-zaid-466921290/](https://www.linkedin.com/in/zaid-ai-product/)
-- **GitHub:** [@Ameeq-coding](https://github.com/Ameeq-coding)
-- **X:** [@AmeeqCoding](#)
+**Technical**: LangGraph, LlamaIndex, RAGAS, Vector Databases, LLM Evaluation
 
 ---
 
-<div align="center">
+## Impact by Numbers
 
-### "Shipping production AI is 10% model selection, 90% everything else."
+| Metric | Achievement |
+|--------|-------------|
+| Latency Optimization | 60% reduction (2.1s → 340ms) |
+| Business Conversion | 18% uplift from optimization |
+| Task Automation | 40% reduction in manual work |
+| Search Precision | 0.94 vs 0.71 baseline |
+| Test Coverage | 78% across API suite |
+| Incident Reduction | 35% quarter-over-quarter |
+| Cost Optimization | 25% infrastructure savings |
+| RAG Retrieval | 88% precision on domain |
+| Security Testing | 50+ adversarial scenarios |
+| Performance Gain | 12% F1-score improvement |
 
-Built with ❤️ for the AI engineering community.
+---
 
-</div>
+## Education
+
+**MSc Technology Management** (AI in Business, Agentic Systems)
+BPP University London | Sep 2025 – Present
+
+**BSc Computer Science**
+University of Narowal | Oct 2019 – Sep 2023
+
+**Machine Learning Specialization**
+Coursera (Stanford University) | Jan 2021 – Jan 2022
+
+---
+
+## Professional Summary
+
+Active contributor to open-source AI security tooling. Published security research and evaluation frameworks. Track record of independent project ownership and cross-functional product execution. Experienced with production deployment, team coordination, and business-aligned technical decisions.
+
+Actively seeking AI Product Engineer opportunities with forward-thinking organizations focused on production LLM systems and AI security.
+
+---
+
+## Get In Touch
+
+Email: zaid.ameeq@gmail.com | Phone: +44 7307 535562 | [LinkedIn](https://www.linkedin.com/in/zaid-ai-product/) | [GitHub](https://github.com/Ameeq-coding)
